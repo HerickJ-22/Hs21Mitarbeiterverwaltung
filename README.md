@@ -1,0 +1,2 @@
+# Hs21Mitarbeiterverwaltung
+Mitarbeiterverwaltung als Semesterleistung der Hochschule 21
